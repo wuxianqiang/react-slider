@@ -30,4 +30,4 @@ npm install prop-types
     loop: 布尔       ->表示是否自动播放默认循环播放
     interval: 数字   ->表示播放时间间隔默认时间3000
 ```
-![photo}(https://github.com/wuxianqiang/react-slider/blob/master/photo.png?raw=true)
+![photo](https://github.com/wuxianqiang/react-slider/blob/master/photo.png?raw=true)
